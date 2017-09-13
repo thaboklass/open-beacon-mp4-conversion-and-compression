@@ -1,0 +1,40 @@
+.ob_mp4_cc_true {
+	color: rgb(0, 194, 0);
+}
+
+.ob_mp4_cc_false {
+	color:red;
+}
+
+#ob_vc_output_url {
+	display : none;
+}
+
+#ob_mp4_cc_main_content {
+	display : none;
+}
+
+#ob_mp4_cc_loading {
+	display : none;
+}
+
+.spinner {
+	display: inline;
+}
+
+#ob_mp4_cc_incomplete_dialog {
+	background: #f8dbdb;
+	border-color: #e77776;
+	display : none;
+}
+
+#ob_mp4_cc_ffmpeg_not_found {
+	background: #f8dbdb;
+	border-color: #e77776;
+	display : none;
+}
+
+#ob_mp4_cc_upload_complete {
+	background: #daffd6;
+	border-color: #beffb7;
+}
